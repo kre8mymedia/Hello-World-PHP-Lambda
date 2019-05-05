@@ -1,1 +1,1 @@
-<?php echo "Hello from PHP on NOW"; ?>
+<?php echo print_r($_SERVER,true);?>
